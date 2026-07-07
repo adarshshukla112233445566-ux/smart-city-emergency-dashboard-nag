@@ -153,7 +153,7 @@ importers:
         specifier: 7.55.0
         version: 7.55.0(react@18.3.1)
       react-leaflet:
-        specifier: ^5.0.0
+        specifier: 5.0.0
         version: 5.0.0(leaflet@1.9.4)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react-popper:
         specifier: 2.3.0
